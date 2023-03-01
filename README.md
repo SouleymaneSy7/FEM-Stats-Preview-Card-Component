@@ -41,8 +41,8 @@ This is the Screenshot of the projects a made!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-made-with-html-and-sass-vSVkAXVq_8)
+- Live Site URL: [live site URL here](https://fem-stats-preview-card-component-eight.vercel.app/)
 
 ## My process
 
